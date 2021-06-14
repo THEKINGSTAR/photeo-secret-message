@@ -10,6 +10,6 @@ here list of what you can use: 😉😂
 
   im too lasy to add expetion for not using these letters !! 🤣🤣🤣🤣🤣🤣🤣
   
-  here a look fo what you will get.
+  here a look of what you will get.
   
 ![Screenshot (62)](https://user-images.githubusercontent.com/25788408/121930391-9b2ec000-cd42-11eb-8077-2e3f80619abd.png)
