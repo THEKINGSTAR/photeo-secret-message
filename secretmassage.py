@@ -81,8 +81,8 @@ def mesage_creating(message):
 
 
 def user_input():
-    message = input("Right the message you want IN PICTURES !!! , USE ONLY ALPHABET LETTERS , DOT(' . ' ) AND SPACEES ")
-    print("Check THE folder 'MESSAGE' FOR THE : " +message + "!" + ' '+"IN PICTURES")
+    message = input("Right the message you want IN PICTURES !!! , USE ONLY ALPHABET LETTERS , DOT(' . ' ) AND SPACEES \n")
+    print("\n Check THE folder 'MESSAGE' FOR THE : " +message + "!" + ' '+"IN PICTURES \n")
     #creat_message(message)
     mesage_creating(message)
 
